@@ -410,7 +410,8 @@ menu_principal() {
 # ==============================
 #  INICIO
 # ==============================
+sync_pull
 
 inicializar_archivos
-sync_pull
+
 menu_principal
